@@ -17,7 +17,7 @@ O que há de novo nesta versão:
 - Download de fangames adicionado
 - RetroMusic adicionado
 - dtb_select.bat para evitar erros na escolha do seu DTB
-- HD externo 100% compatível
+- HD SSD externo 100% compatível
 - Zerotier adicionado
 - E correções necessárias
 
@@ -42,7 +42,7 @@ What's new in this version:
 - Fangames download added
 - RetroMusic added
 - dtb_select.bat to avoid errors in choosing your DTB
-- 100% compatible external HD
+- 100% compatible external HD SSD
 - Zerotier added
 - And necessary fixes
 
@@ -68,7 +68,7 @@ Novedades en esta versión:
 - Descarga de fangames añadida
 - RetroMusic añadido
 - dtb_select.bat para evitar errores en la elección de su DTB
-- Disco duro externo 100% compatible
+- HD SSD externo 100% compatible
 - Zerotier añadido
 - Y correcciones necesarias
 
